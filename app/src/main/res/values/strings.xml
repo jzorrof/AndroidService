@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyServices1</string>
+    <string name="local_service_label"> TEST </string>
+</resources>
