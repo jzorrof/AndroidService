@@ -23,6 +23,9 @@
         <service
             android:name=".MyRemoteService"
             android:process=":remote">
+            <intent-filter>
+                <action android:name="demo.fanzhong.com.myservices1.MyRemoteService" />
+            </intent-filter>
         </service>
     </application>
 
